@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://varanasi2027.online/sitemap.xml
